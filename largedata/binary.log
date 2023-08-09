@@ -1,0 +1,27 @@
+PLINK v1.90b4 64-bit (20 Mar 2017)
+Options in effect:
+  --file myplink
+  --make-bed
+  --out binary
+
+Hostname: c1423.swan.hcc.unl.edu
+Working directory: /lustre/work/jyanglab/semra/monococcum/largedata
+Start time: Wed Jul 26 09:38:26 2023
+
+Random number seed: 1690382306
+256738 MB RAM detected; reserving 128369 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (53642 variants, 252 people).
+--file: binary-temporary.bed + binary-temporary.bim + binary-temporary.fam
+written.
+53642 variants loaded from .bim file.
+252 people (0 males, 0 females, 252 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to binary.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 252 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+53642 variants and 252 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to binary.bed + binary.bim + binary.fam ... done.
+
+End time: Wed Jul 26 09:38:26 2023
