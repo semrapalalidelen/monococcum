@@ -1,0 +1,25 @@
+PLINK v1.90b4 64-bit (20 Mar 2017)
+Options in effect:
+  --bfile binary
+  --out binary_monococcum
+  --pca header
+
+Hostname: c1406.swan.hcc.unl.edu
+Working directory: /lustre/work/jyanglab/semra/monococcum/largedata
+Start time: Thu Jul 27 06:04:43 2023
+
+Random number seed: 1690455883
+256738 MB RAM detected; reserving 128369 MB for main workspace.
+53642 variants loaded from .bim file.
+252 people (0 males, 0 females, 252 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to binary_monococcum.nosex .
+Using up to 55 threads (change this with --threads).
+Before main variant filters, 252 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+53642 variants and 252 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to binary_monococcum.eigenval and
+binary_monococcum.eigenvec .
+
+End time: Thu Jul 27 06:04:44 2023
